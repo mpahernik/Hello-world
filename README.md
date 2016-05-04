@@ -1,3 +1,3 @@
 # Hello-world
 Repozitorij za vježbu iz projektnog
-Jurki ne radi ništa,frajer se skrpo.
+Brez ne radi ništa,frajer se skrpo.
